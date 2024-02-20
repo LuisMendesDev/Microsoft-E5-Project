@@ -6,3 +6,4 @@ I'm still unsure of what exaclty am I going to develop, so I'm gonna work on the
 I'm studying:
 Basic HTML, CSS and JS
 
+I still don't know where to begin developing an API for Microsoft, I'll need more time to figure out
