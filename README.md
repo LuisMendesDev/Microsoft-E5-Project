@@ -7,3 +7,6 @@ I'm studying:
 Basic HTML, CSS and JS
 
 I still don't know where to begin developing an API for Microsoft, I'll need more time to figure out
+
+1- Learn how to use GitHub
+2- Understand what to code regarding MS Office E5
