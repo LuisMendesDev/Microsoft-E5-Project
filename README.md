@@ -10,3 +10,4 @@ I still don't know where to begin developing an API for Microsoft, I'll need mor
 
 1- Learn how to use GitHub
 2- Understand what to code regarding MS Office E5
+3- Figure out, how MS subscription works
